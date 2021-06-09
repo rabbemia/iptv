@@ -23,9 +23,124 @@ http://103.205.133.21/hls/channel24.m3u8
 #EXTINF:0 tvg-language="Bangla" tvg-logo="https://i.imgur.com/XA5u4gk.png" group-title="BDIX Server 1",DBC News*
 http://103.205.133.21/hls/dbcnews.m3u8
 
+#EXTM3U
 #EXTINF:-1,BEIN PREMUIM 1 4K
 http://egiptv.online:25461/live/elcotch/tvsr/29.m3u8
 #EXTINF:-1,BEIN PREMUIM 2 4K
 http://egiptv.online:25461/live/elcotch/tvsr/30.m3u8
 #EXTINF:-1,BEIN PREMUIM 3 4K
 http://egiptv.online:25461/live/elcotch/tvsr/31.m3u8
+#EXTINF:-1,BEIN SPORTS 1 4K
+http://egiptv.online:25461/live/elcotch/tvsr/32.m3u8
+#EXTINF:-1,BEIN SPORTS 2 4K
+http://egiptv.online:25461/live/elcotch/tvsr/33.m3u8
+#EXTINF:-1,BEIN SPORTS 3 4K
+http://egiptv.online:25461/live/elcotch/tvsr/34.m3u8
+#EXTINF:-1,BEIN SPORTS 4 4K
+http://egiptv.online:25461/live/elcotch/tvsr/35.m3u8
+#EXTINF:-1,BEIN SPORTS 5 4K
+http://egiptv.online:25461/live/elcotch/tvsr/36.m3u8
+#EXTINF:-1,BEIN SPORTS 6 4K
+http://egiptv.online:25461/live/elcotch/tvsr/37.m3u8
+#EXTINF:-1,BEIN SPORTS 7 4K
+http://egiptv.online:25461/live/elcotch/tvsr/38.m3u8
+#EXTINF:-1,BEIN PREMUIM 1 HD
+http://egiptv.online:25461/live/elcotch/tvsr/39.m3u8
+#EXTINF:-1,BEIN PREMUIM 2 HD
+http://egiptv.online:25461/live/elcotch/tvsr/40.m3u8
+#EXTINF:-1,BEIN PREMUIM 3 HD
+http://egiptv.online:25461/live/elcotch/tvsr/41.m3u8
+#EXTINF:-1,BEIN SPORTS 1 HD
+http://egiptv.online:25461/live/elcotch/tvsr/42.m3u8
+#EXTINF:-1,BEIN SPORTS 2 HD
+http://egiptv.online:25461/live/elcotch/tvsr/43.m3u8
+#EXTINF:-1,BEIN SPORTS 3 HD
+http://egiptv.online:25461/live/elcotch/tvsr/44.m3u8
+#EXTINF:-1,BEIN SPORTS 4 HD
+http://egiptv.online:25461/live/elcotch/tvsr/45.m3u8
+#EXTINF:-1,BEIN SPORTS 5 HD
+http://egiptv.online:25461/live/elcotch/tvsr/46.m3u8
+#EXTINF:-1,BEIN SPORTS 6 HD
+http://egiptv.online:25461/live/elcotch/tvsr/47.m3u8
+#EXTINF:-1,BEIN SPORTS 7 HD
+http://egiptv.online:25461/live/elcotch/tvsr/48.m3u8
+#EXTINF:-1,BEIN PREMUIM 1 SD
+http://egiptv.online:25461/live/elcotch/tvsr/59.m3u8
+#EXTINF:-1,BEIN PREMUIM 2 SD
+http://egiptv.online:25461/live/elcotch/tvsr/60.m3u8
+#EXTINF:-1,BEIN PREMUIM 3 SD
+http://egiptv.online:25461/live/elcotch/tvsr/61.m3u8
+#EXTINF:-1,BEIN SPORTS 1 SD
+http://egiptv.online:25461/live/elcotch/tvsr/62.m3u8
+#EXTINF:-1,BEIN SPORTS 2 SD
+http://egiptv.online:25461/live/elcotch/tvsr/63.m3u8
+#EXTINF:-1,BEIN SPORTS 3 SD
+http://egiptv.online:25461/live/elcotch/tvsr/64.m3u8
+#EXTINF:-1,BEIN SPORTS 4 SD
+http://egiptv.online:25461/live/elcotch/tvsr/65.m3u8
+#EXTINF:-1,BEIN SPORTS 5 SD
+http://egiptv.online:25461/live/elcotch/tvsr/66.m3u8
+#EXTINF:-1,BEIN SPORTS 6 SD
+http://egiptv.online:25461/live/elcotch/tvsr/67.m3u8
+#EXTINF:-1,BEIN SPORTS 7 SD
+http://egiptv.online:25461/live/elcotch/tvsr/68.m3u8
+#EXTINF:-1,BEIN PREMUIM 1 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/79.m3u8
+#EXTINF:-1,BEIN PREMUIM 2 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/80.m3u8
+#EXTINF:-1,BEIN PREMUIM 3 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/81.m3u8
+#EXTINF:-1,BEIN SPORTS 1 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/82.m3u8
+#EXTINF:-1,BEIN SPORTS 2 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/83.m3u8
+#EXTINF:-1,BEIN SPORTS 3 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/84.m3u8
+#EXTINF:-1,BEIN SPORTS 4 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/85.m3u8
+#EXTINF:-1,BEIN SPORTS 5 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/86.m3u8
+#EXTINF:-1,BEIN SPORTS 6 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/87.m3u8
+#EXTINF:-1,BEIN SPORTS 7 LOW
+http://egiptv.online:25461/live/elcotch/tvsr/88.m3u8
+#EXTINF:-1,BEIN MAX 1 SD
+http://egiptv.online:25461/live/elcotch/tvsr/105.m3u8
+#EXTINF:-1,BEIN MAX 1 4K
+http://egiptv.online:25461/live/elcotch/tvsr/106.m3u8
+#EXTINF:-1,BEIN MAX 2 SD
+http://egiptv.online:25461/live/elcotch/tvsr/107.m3u8
+#EXTINF:-1,BEIN MAX 2 4K
+http://egiptv.online:25461/live/elcotch/tvsr/108.m3u8
+#EXTINF:-1,BEIN MAX 3 SD
+http://egiptv.online:25461/live/elcotch/tvsr/109.m3u8
+#EXTINF:-1,BEIN MAX 3 4K
+http://egiptv.online:25461/live/elcotch/tvsr/110.m3u8
+#EXTINF:-1,BEIN MAX 4 SD
+http://egiptv.online:25461/live/elcotch/tvsr/111.m3u8
+#EXTINF:-1,BEIN MAX 4 4K
+http://egiptv.online:25461/live/elcotch/tvsr/112.m3u8
+#EXTINF:-1,BEIN MAX 1 VIP
+http://egiptv.online:25461/live/elcotch/tvsr/139.m3u8
+#EXTINF:-1,BEIN MAX 2 VIP
+http://egiptv.online:25461/live/elcotch/tvsr/140.m3u8
+#EXTINF:-1,BEIN MAX 3 VIP
+http://egiptv.online:25461/live/elcotch/tvsr/141.m3u8
+#EXTINF:-1,BEIN MAX 4 VIP
+http://egiptv.online:25461/live/elcotch/tvsr/142.m3u8
+#EXTINF:-1,BEIN XTRA 
+http://egiptv.online:25461/live/elcotch/tvsr/148.m3u8
+#EXTINF:-1,BEIN NEWS
+http://egiptv.online:25461/live/elcotch/tvsr/177.m3u8
+#EXTINF:-1,BEIN NBA
+http://egiptv.online:25461/live/elcotch/tvsr/178.m3u8
+#EXTINF:-1,BEIN SPORTS 1 EN
+http://egiptv.online:25461/live/elcotch/tvsr/1.m3u8
+#EXTINF:-1,BEIN SPORTS 2 EN
+http://egiptv.online:25461/live/elcotch/tvsr/2.m3u8
+#EXTINF:-1,BEIN SPORTS 1 FR
+http://egiptv.online:25461/live/elcotch/tvsr/3.m3u8
+#EXTINF:-1,BEIN SPORTS 2 FR
+http://egiptv.online:25461/live/elcotch/tvsr/4.m3u8
+#EXTINF:-1,BEIN SPORTS 3 FR
+http://egiptv.online:25461/live/elcotch/tvsr/5.m3u8
