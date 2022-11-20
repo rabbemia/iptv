@@ -1,119 +1,825 @@
+#EXTINF:-1,BEIN SPORTS PREMIER 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/8
+#EXTINF:-1,BEIN SPORTS PREMIER 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/9
+#EXTINF:-1,BEIN SPORTS PREMIER 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/10
+#EXTINF:-1,BEIN SPORT NEWS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/449
+#EXTINF:-1,BEIN SPORTS 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/2
+#EXTINF:-1,BEIN SPORTS 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/1
+#EXTINF:-1,BEIN SPORTS 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/3
+#EXTINF:-1,BEIN SPORTS 4
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/4
+#EXTINF:-1,BEIN SPORTS 5
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/5
+#EXTINF:-1,BEIN SPORTS 6
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/6
+#EXTINF:-1,BEIN SPORTS 7
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/7
+#EXTINF:-1,BEIN XTRA 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/40
 
-#EXTINF:-1,BEINSPORT 1 PREMIUM LOW
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2060
-
-#EXTINF:-1,BEINSPORT 2 PREMIUM LOW
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2061
-#EXTINF:-1,BEINSPORT 3 PREMIUM LOW
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2062
-#EXTINF:-1,BEINSPORT
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2058
-
-#EXTINF:-1,BEINSPORT
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2059
-
-#EXTINF:-1,BEINSPORT xtra1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2260
-#EXTINF:-1,BEINSPORT xtra2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2261
-
-#EXTINF:-1,BEINSPORT LOW 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2063
-#EXTINF:-1,BEINSPORT LOW 2
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2064
-#EXTINF:-1,BEINSPORT LOW 3
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2065
-#EXTINF:-1,BEINSPORT LOW 4
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2066
-
-#EXTINF:-1,BEINSPORT LOW 5
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2067
-#EXTINF:-1,BEINSPORT LOW 6
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2068
-
-
-#EXTINF:-1,BEINSPORT LOW 7
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2069
-#EXTINF:-1,SSC SPORT 1
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2203
-
-#EXTINF:-1,SSC SPORT 2 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2204
-#EXTINF:-1,SSC SPORT 3 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2205
-
-#EXTINF:-1,SSC SPORT 4 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2206
-
-#EXTINF:-1,SSC SPORT 5 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2207
-
-#EXTINF:-1,SSC SPORT 6 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2208
-
-#EXTINF:-1,SSC SPORT 7 
-#EXTVLCOPT:http-user-agent=BLACK TV 1.0.0 (3)
-http://blackfiretv.live/9m5ujqaPKRZy/yAJPSPcwWSZF/2209
+#EXTINF:-1,BEIN SPORTS EN 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/53
+#EXTINF:-1,BEIN SPORTS EN 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/64
+#EXTINF:-1,BEIN SPORTS ENGLISH 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/218
+#EXTINF:-1,BEIN SPORTS EN 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/463
+#EXTINF:-1,USA NETWORK
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/384
+#EXTINF:-1,NBC SPORTS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/450
+#EXTINF:-1,NBC SPORTS 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/209
+#EXTINF:-1,SUPERSPORT PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/306
+#EXTINF:-1,WILLOW CRICKET
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/464
+#EXTINF:-1,PTV
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/465
+#EXTINF:-1,DUHOK SPORTS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/466
+#EXTINF:-1,SONY SPORTS  TEN 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/467
+#EXTINF:-1,SONY TEN SPORTS 2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/468
+#EXTINF:-1,SONY TEN SPORTS 3
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/469
+#EXTINF:-1,LA LIGA ENGLISH 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/470
+#EXTINF:-1,STAR SPORT 1
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/471
+#EXTINF:-1,F1 FIGHT NETWORK 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/475
+#EXTINF:-1,ASTRO CRICKET
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/476
+#EXTINF:-1,FS2
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/303
+#EXTINF:-1,NOW SPORTS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/479
+#EXTINF:-1,CBS SPORTS 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/336
+#EXTINF:-1,canal foot 
+#EXTVLCOPT:http-user-agent=CHANNEL4_34
+http://stream.pizztv.com:8000/BEINYTGFRDEWJJJ/BEIN/480
 
 
 
 
-
-#EXTM3U
-#EXTINF:-1,BeIN | BeIN Sport Premium 1
-http://213.202.230.51:25461/live_sport/live_sport_ios/1
-#EXTINF:-1,BeIN | BeIN Sport Premium 2
-http://213.202.230.51:25461/live_sport/live_sport_ios/2
-#EXTINF:-1,BeIN | BeIN Sport Premium 3
-http://213.202.230.51:25461/live_sport/live_sport_ios/3
-#EXTINF:-1,BeIN | BeIN Sport 1
-http://213.202.230.51:25461/live_sport/live_sport_ios/4
-#EXTINF:-1,BeIN | BeIN Sport 2
-http://213.202.230.51:25461/live_sport/live_sport_ios/5
-#EXTINF:-1,BeIN | BeIN Sport 3
-http://213.202.230.51:25461/live_sport/live_sport_ios/6
-#EXTINF:-1,BeIN | BeIN Sport 4
-http://213.202.230.51:25461/live_sport/live_sport_ios/7
-#EXTINF:-1,BeIN | BeIN Sport Premium 1 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/8
-#EXTINF:-1,BeIN | BeIN Sport Premium 2 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/9
-#EXTINF:-1,BeIN | BeIN Sport Premium 3 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/10
-#EXTINF:-1,BeIN | BeIN Sport 1 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/11
-#EXTINF:-1,BeIN | BeIN Sport 2 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/12
-#EXTINF:-1,BeIN | BeIN Sport 3 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/13
-#EXTINF:-1,BeIN | BeIN Sport 4 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/14
-#EXTINF:-1,AR | ONTIME SPORTS
-http://213.202.230.51:25461/live_sport/live_sport_ios/15
-#EXTINF:-1,AR | ONTIME SPORTS ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/16
-#EXTINF:-1,AR | ONTIME SPORTS2
-http://213.202.230.51:25461/live_sport/live_sport_ios/17
-#EXTINF:-1,AR | ONTIME SPORTS2 ᴴᴰ
-http://213.202.230.51:25461/live_sport/live_sport_ios/18
-
+#EXTINF:-1,AR: BEIN SPORTS PREMIUM 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044188
+#EXTINF:-1,AR: BEIN SPORTS PREMIUM 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044189
+#EXTINF:-1,AR: BEIN SPORTS PREMIUM 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044190
+#EXTINF:-1,AR: BEIN SPORTS ENG 1 4K
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044183
+#EXTINF:-1,AR: BEIN SPORTS ENG 2 4K
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044184
+#EXTINF:-1,AR: BEIN SPORTS ENG 3 4K
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044185
+#EXTINF:-1,AR: BEIN SPORTS FRENCH 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044204
+#EXTINF:-1,AR: BEIN SPORTS NBA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044186
+#EXTINF:-1,AR: BEIN SPORTS NEWS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044187
+#EXTINF:-1,AR: BEIN SPORTS AFC
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044202
+#EXTINF:-1,AR: BEIN SPORTS AFC 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044200
+#EXTINF:-1,AR: BEIN SPORTS AFC 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044199
+#EXTINF:-1,AR: BEIN SPORTS AFC 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044201
+#EXTINF:-1,AR: BEIN SPORTS XTRA 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044191
+#EXTINF:-1,AR: BEIN SPORTS XTRA 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044203
+#EXTINF:-1,AR: BEIN SPORTS 5
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044180
+#EXTINF:-1,AR: BEIN SPORTS 6
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044181
+#EXTINF:-1,AR: BEIN SPORTS 7
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044182
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044206
+#EXTINF:-1,FR: BEIN SPORT MAX 9
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044207
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044208
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044209
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044210
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044211
+#EXTINF:-1,FR: BEIN SPORT MAX 10
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044212
+#EXTINF:-1,ES: BEIN SPORTS ESPANAA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044213
+#EXTINF:-1,TR: BEIN SPORTS MAX 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044214
+#EXTINF:-1,TR: BEIN SPORTS MAX 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044215
+#EXTINF:-1,TR: BEIN SPORTS HABER
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044216
+#EXTINF:-1,USA: VIP BEIN SPORTS CONNECT 8
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044217
+#EXTINF:-1,USA: VIP BEIN SPORTS CONNECT 7
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044218
+#EXTINF:-1,FR: BEIN SPORTS 2 VIP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044219
+#EXTINF:-1,FR: BEIN SPORTS MAX9 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044220
+#EXTINF:-1,FR: BEIN SPORTS MAX9 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044221
+#EXTINF:-1,FR: BEIN SPORTS MAX9 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044222
+#EXTINF:-1,FR: BEIN SPORTS MAX8 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044223
+#EXTINF:-1,FR: BEIN SPORTS MAX8 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044224
+#EXTINF:-1,FR: BEIN SPORTS MAX8 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044225
+#EXTINF:-1,FR: BEIN SPORTS MAX7 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044226
+#EXTINF:-1,FR: BEIN SPORTS MAX7 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044227
+#EXTINF:-1,FR: BEIN SPORTS MAX7 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044228
+#EXTINF:-1,FR: BEIN SPORTS MAX6 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044229
+#EXTINF:-1,FR: BEIN SPORTS MAX6 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044230
+#EXTINF:-1,FR: BEIN SPORTS MAX6 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044231
+#EXTINF:-1,FR: BEIN SPORTS MAX5 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044232
+#EXTINF:-1,FR: BEIN SPORTS MAX5 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044233
+#EXTINF:-1,FR: BEIN SPORTS MAX5 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044234
+#EXTINF:-1,FR: BEIN SPORTS MAX4 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044235
+#EXTINF:-1,FR: BEIN SPORTS MAX4 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044236
+#EXTINF:-1,FR: BEIN SPORTS MAX4 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044237
+#EXTINF:-1,FR: BEIN SPORTS MAX10 (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044238
+#EXTINF:-1,FR: BEIN SPORTS MAX10 HD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044239
+#EXTINF:-1,FR: BEIN SPORTS MAX10 FHD (EVENT ONLY)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044240
+#EXTINF:-1,TR: BEIN SPORTS 1 VIP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044258
+#EXTINF:-1,TR: BEIN SPORTS 3 VIP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044259
+#EXTINF:-1,TR: BEIN SPORTS 4 VIP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044260
+#EXTINF:-1,UK: VIP BEIN SPORTS 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044261
+#EXTINF:-1,UK: VIP BEIN SPORTS 7
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044262
+#EXTINF:-1,USA: VIP BEIN SPORTS XTRA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044263
+#EXTINF:-1,USA: VIP BEIN SPORTS CONNECT 5
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044264
+#EXTINF:-1,USA: VIP BEIN SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044265
+#EXTINF:-1,LA: STAR SPORTS 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044266
+#EXTINF:-1,LA: STAR SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044267
+#EXTINF:-1,LA: TIGO SPORT CR 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044268
+#EXTINF:-1,LA: SPORTS RED BULL TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044269
+#EXTINF:-1,LA: EC_DIRECTV SPORT
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044270
+#EXTINF:-1,LA: STAR SPORT2 CHILE
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044271
+#EXTINF:-1,LA: DIRECT SPORTS+
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044272
+#EXTINF:-1,LA: TNT SPORTS (ARG)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044273
+#EXTINF:-1,LA: STAR SPORTS 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044274
+#EXTINF:-1,LA: STAR SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044275
+#EXTINF:-1,CO: WIN SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044276
+#EXTINF:-1,ES | LaLigaTV HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044916
+#EXTINF:-1,ES | Movistar Liga De Campeones HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044917
+#EXTINF:-1,ES | Movistar LaLiga HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044918
+#EXTINF:-1,ES | EuroSport 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044919
+#EXTINF:-1,ES | Eurosport 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044920
+#EXTINF:-1,ES | Movistar Deportes HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044921
+#EXTINF:-1,ES | Movistar Formula 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044922
+#EXTINF:-1,ES |  Movistar Futbol HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044923
+#EXTINF:-1,ES | Toros TV HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044924
+#EXTINF:-1,*ES Levante TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044925
+#EXTINF:-1,ES | MOVISTAR GOLF  HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044926
+#EXTINF:-1,ES  | MOVISTAR DEPORTES 1 FULL HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044927
+#EXTINF:-1,ES  | MOVISTAR  TOROS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044928
+#EXTINF:-1,ES | MOVISTAR F1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044929
+#EXTINF:-1,ES | Barca TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044930
+#EXTINF:-1,ES |  LA Liga FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044931
+#EXTINF:-1,*ES | Movistar Laliga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044932
+#EXTINF:-1,ES | beINSport LaLiga HD  ( SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044933
+#EXTINF:-1,ES | Vamos FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044934
+#EXTINF:-1,ES | Vamos HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044935
+#EXTINF:-1,ES | Real Madrid TV FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044936
+#EXTINF:-1,*ES | Movistar Golf
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044937
+#EXTINF:-1,ES | Movistar Moto GP HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044938
+#EXTINF:-1,ES | GOL TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044939
+#EXTINF:-1,ES | M. LALIGA FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044940
+#EXTINF:-1,ES | Bein Sport HD (EN)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044941
+#EXTINF:-1,ES | Bein Sports LaLiga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044942
+#EXTINF:-1,ES | Movistar Laliga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044943
+#EXTINF:-1,ES |  LaLiga HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044944
+#EXTINF:-1,ES | Aragón Deporte HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044945
+#EXTINF:-1,ES | +Real Madrid TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044946
+#EXTINF:-1,ES | +Real Betis TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044947
+#EXTINF:-1,ES | #VAMOS HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044948
+#EXTINF:-1,ES | VAMOS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044949
+#EXTINF:-1,ES | TELEDEPORTE HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044950
+#EXTINF:-1,ES | M. LA LIGA DE CAMPEONES (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044951
+#EXTINF:-1,ES | MOVISTAR LALIGA 1 (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044952
+#EXTINF:-1,ES | MOVISTAR LALIGA 2 (Solo eventos)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044953
+#EXTINF:-1,ES | MOVISTAR LALIGA 3 (Solo eventos)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044954
+#EXTINF:-1,ES | Movistar La Liga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044955
+#EXTINF:-1,ES | LA LIGA 2 TV HD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044956
+#EXTINF:-1,ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044957
+#EXTINF:-1,ES | LA LIGA TV BAR 2 (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044958
+#EXTINF:-1,ES | LA LIGA TV 4K (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044959
+#EXTINF:-1,ES | LA LIGA TV BAR 4 (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044960
+#EXTINF:-1,ES | LIGA DE CAMPEONES FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044961
+#EXTINF:-1,ES | MOVISTAR LA LIGA 1 HD HEVC ( SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044962
+#EXTINF:-1,ES | MOVISTAR LA LIGA 2 HD HEVC  ( SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044963
+#EXTINF:-1,ES | MOVISTAR LA LIGA 3 HD ( SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044964
+#EXTINF:-1,ES | MOVISTAR LA LIGA HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044965
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES 1  (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044966
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES 2 [LIVE-EVENT]
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044967
+#EXTINF:-1,ES | MOVISTAR LIGA DE CAMPEONES
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044968
+#EXTINF:-1,ES | M. LaLiga 1 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044969
+#EXTINF:-1,ES | M. LaLiga 2 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044970
+#EXTINF:-1,ES | M. LaLiga 2 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044971
+#EXTINF:-1,ES | M. LaLiga 3 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044972
+#EXTINF:-1,ES | M. LaLiga 3 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044973
+#EXTINF:-1,ES | Movistar LaLiga 4 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044974
+#EXTINF:-1,ES | M. LaLiga 5 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044975
+#EXTINF:-1,ES | M. LaLiga 6 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044976
+#EXTINF:-1,ES | M. LaLiga 7 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044977
+#EXTINF:-1,ES | M. LaLiga 8 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044978
+#EXTINF:-1,ES | M. LaLiga 9 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044979
+#EXTINF:-1,ES | M. LaLiga 10 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044980
+#EXTINF:-1,ES | M. LaLiga 1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044981
+#EXTINF:-1,ES |LALIGA 1 SD (SÓLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044982
+#EXTINF:-1,ES | LALIGA 1 FHD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044983
+#EXTINF:-1,ES | LALIGA 2 SD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044984
+#EXTINF:-1,ES | LALIGA 3 SD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044985
+#EXTINF:-1,ES | LALIGA 4 HD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044986
+#EXTINF:-1,ES | LALIGA 4 FHD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044987
+#EXTINF:-1,ES | LALIGA 5 SD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044988
+#EXTINF:-1,ES | LALIGA 5 HD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044989
+#EXTINF:-1,ES | LALIGA 5 FHD (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044990
+#EXTINF:-1,ES | LALIGA 6 (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044991
+#EXTINF:-1,ES | LALIGA 7  (SÓLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044992
+#EXTINF:-1,ES | LALIGA 8  (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044993
+#EXTINF:-1,ES | LALIGA 9 (SOLO EVENTOS)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044994
+#EXTINF:-1,ES | M. FORMULA 1 HD (CONEXION BAJA)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044995
+#EXTINF:-1,ES | M. FORMULA 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044996
+#EXTINF:-1,ES |  M. DEPORTES HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044997
+#EXTINF:-1,ES |  M. DEPORTES 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044998
+#EXTINF:-1,ES |  M. DEPORTES 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044999
+#EXTINF:-1,ES |  M. DEPORTES 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045000
+#EXTINF:-1,ES |  M. DEPORTES 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045001
+#EXTINF:-1,ES |  M. DEPORTES 7 (LIVEEVEENT)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045002
+#EXTINF:-1,ES |  M. DEPORTES 8
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045003
+#EXTINF:-1,ES | Movistar Liga De Campeones FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045004
+#EXTINF:-1,ES | EL TORO TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045005
+#EXTINF:-1,ES | DAZN  F 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045006
+#EXTINF:-1,ES | EuroSport 1 HD P
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045007
+#EXTINF:-1,ES | TELEDEPORTE FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045008
+#EXTINF:-1,ES | U-BEAT FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045009
+#EXTINF:-1,ES | Esport 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045010
+#EXTINF:-1,ES | MOVISTAR DEPORTES 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045011
+#EXTINF:-1,ES | Multideportes
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045012
+#EXTINF:-1,ES | Eurosport 2 HD OPC2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045013
+#EXTINF:-1,ES | SKY SPORTS LALIGA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045014
+#EXTINF:-1,ES | LA LIGA SMARTBANK TV opc 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045015
+#EXTINF:-1,ES | Movistar Liga de Campeones 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045016
+#EXTINF:-1,ES | Movistar Liga de Campeones 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045017
+#EXTINF:-1,ES | Movistar Liga de Campeones 5
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045018
+#EXTINF:-1,ES | Movistar Liga de Campeones 6
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045019
+#EXTINF:-1,ES | Movistar Liga de Campeones 7
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045020
+#EXTINF:-1,BRASIL | ESPN HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045021
+#EXTINF:-1,DEPORTES HD | SKY SPORTS 16
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045022
+#EXTINF:-1,DEPORTES | DIRECTV SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045023
+#EXTINF:-1,Deportes SD | ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045024
+#EXTINF:-1,ES | LaLigaTV HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045025
+#EXTINF:-1,ES | Movistar LaLiga HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045026
+#EXTINF:-1,*ES | Movistar Laliga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045027
+#EXTINF:-1,ES | GOL TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045028
+#EXTINF:-1,ES | M. LALIGA FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045029
+#EXTINF:-1,ES | Movistar Laliga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045030
+#EXTINF:-1,ES |  LaLiga HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045031
+#EXTINF:-1,ES | Movistar La Liga
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045032
+#EXTINF:-1,ES | LA LIGA TV BAR 1 [LIVE-EVENT]
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045033
+#EXTINF:-1,|EX-YU| ARENA SPORT 1 HD (HR)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045034
+#EXTINF:-1,ES | SKY SPORTS LALIGA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045035
+#EXTINF:-1,DAZN LALIGA 1 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045036
+#EXTINF:-1,DAZN LALIGA 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045037
+#EXTINF:-1,DAZN LALIGA 1 FHD EXTRA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045038
+#EXTINF:-1,DAZN LALIGA 1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045039
+#EXTINF:-1,DAZN LALIGA 2 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045040
+#EXTINF:-1,DAZN LALIGA 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045041
+#EXTINF:-1,DAZN LALIGA 2 FHD EXTRA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045042
+#EXTINF:-1,DAZN LALIGA 2 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045043
+#EXTINF:-1,ES | LA LIGA SMARTBANK TV opc 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045044
+#EXTINF:-1,ES | La Liga Smartbank TV opc 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045045
+#EXTINF:-1,FR: RMC SPORT 1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045807
+#EXTINF:-1,FR: RMC SPORT 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045808
+#EXTINF:-1,FR: RMC SPORT 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045809
+#EXTINF:-1,FR: RMC SPORT 3 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045810
+#EXTINF:-1,FR: RMC SPORT 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045811
+#EXTINF:-1,FR: RMC SPORT 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045812
+#EXTINF:-1,FR: RMC SPORT 5 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045813
+#EXTINF:-1,FR: RMC SPORT 6 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045814
+#EXTINF:-1,FR: RMC SPORT 7 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045815
+#EXTINF:-1,FR: RMC SPORT 8 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045816
+#EXTINF:-1,FR: RMC SPORT 9 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045817
+#EXTINF:-1,FR: RMC SPORT 10 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045818
+#EXTINF:-1,FR: RMC SPORT 11 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045819
+#EXTINF:-1,FR: RMC SPORT 12 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045820
+#EXTINF:-1,FR: RMC SPORT 13 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045821
+#EXTINF:-1,FR: RMC SPORT HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045822
+#EXTINF:-1,FR: beIN Sports 1 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045830
+#EXTINF:-1,FR: beIN Sports 3 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045831
+#EXTINF:-1,FR: beIN Sports 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045832
+#EXTINF:-1,FR: beIN Sports 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045833
+#EXTINF:-1,FR: beIN Sports 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045834
+#EXTINF:-1,FR: beIN Sports Max 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045835
+#EXTINF:-1,FR: beIN Sports Max 5 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045836
+#EXTINF:-1,FR: beIN Sports Max 6 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045837
+#EXTINF:-1,FR: beIN Sports Max 7 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045838
+#EXTINF:-1,FR: beIN Sports Max 8 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045839
+#EXTINF:-1,FR: beIN Sports Max 9 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045840
+#EXTINF:-1,FR: beIN Sports Max 10 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045841
+#EXTINF:-1,FR | AMAZON LEAGUE 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045890
+#EXTINF:-1,FR | AMAZON LEAGUE 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045891
+#EXTINF:-1,FR | AMAZON LEAGUE 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045892
+#EXTINF:-1,FR | AMAZON LEAGUE 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045893
+#EXTINF:-1,FR | AMAZON LEAGUE 5 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045894
+#EXTINF:-1,FR | AMAZON LEAGUE 6 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045895
+#EXTINF:-1,FR | AMAZON LEAGUE 7 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045896
+#EXTINF:-1,FR | AMAZON LEAGUE 8 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045897
+#EXTINF:-1,DEPORTES | ESPN U MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059406
+#EXTINF:-1,DEPORTES | ESPN PLUS MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059407
+#EXTINF:-1,DEPORTES | ESPN NETWORK MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059408
+#EXTINF:-1,DEPORTES | VTV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059409
+#EXTINF:-1,DEPORTES* | GOLF CHANNEL MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059410
+#EXTINF:-1,DEPORTES | FOX SPORTS 3 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059411
+#EXTINF:-1,DEPORTES* | FOX SPORTS 2 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059412
+#EXTINF:-1,DEPORTES | FOX SPORTS MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059413
+#EXTINF:-1,DEPORTES | ESPN 3 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059414
+#EXTINF:-1,DEPORTES | ESPN 2 MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059415
+#EXTINF:-1,DEPORTES | ESPN MEXICO
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059416
+#EXTINF:-1,DEPORTES | DIRECTV SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059417
+#EXTINF:-1,DEPORTES | DIRECTV SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059418
+#EXTINF:-1,DEPORTES | CLARO SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059419
+#EXTINF:-1,DEPORTES | CDO PREMIUM
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059420
+#EXTINF:-1,DEPORTES | FOX SPORTS SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059421
+#EXTINF:-1,DEPORTES | FOX SPORTS 2 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059422
+#EXTINF:-1,DEPORTES | FOX SPORTS 3 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059423
+#EXTINF:-1,DEPORTES | ESPN SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059424
+#EXTINF:-1,DEPORTES | ESPN 2 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059425
+#EXTINF:-1,DEPORTES | ESPN 3 SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059426
+#EXTINF:-1,DEPORTES | GOLF CHANNEL SUR
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059427
+#EXTINF:-1,DEPORTES | GOLTV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059428
+#EXTINF:-1,DEPORTES | BEIN SPORTS Ñ
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059429
+#EXTINF:-1,Deportes SD | *Tigo Sports Guatemala SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059430
+#EXTINF:-1,Deportes SD | TDN (720)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059431
+#EXTINF:-1,Deportes SD | ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059432
+#EXTINF:-1,Deportes SD | ESPN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059433
+#EXTINF:-1,Deportes SD | ESPN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059434
+#EXTINF:-1,Deportes SD | Fox Sports
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059435
+#EXTINF:-1,Deportes SD | FOX SPORTS HD (720)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059436
+#EXTINF:-1,Deportes SD | FoxSport 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059437
+#EXTINF:-1,Deportes SD | FOX SPORTS 2 (720)
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059438
+#EXTINF:-1,Deportes SD | FoxSport 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059439
+#EXTINF:-1,Deportes SD | UTDN USA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059440
+#EXTINF:-1,Deportes SD | UTDN Mx
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059441
+#EXTINF:-1,Deportes SD | ADRENALINA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059442
+#EXTINF:-1,DEPORTES SD  | BEIN SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059443
+#EXTINF:-1,Deportes SD | Claro Sports 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059444
+#EXTINF:-1,Deportes SD | Claro Sports 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059445
+#EXTINF:-1,Deportes SD | Claro Sports 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059446
+#EXTINF:-1,Deportes SD | Claro Sports 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1059447
+#EXTINF:-1,ARG: TYC SPORTS LOCAL
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061294
+#EXTINF:-1,ARG: TNT SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061295
+#EXTINF:-1,ARG: FOX SPORTS PREMIUM
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061296
+#EXTINF:-1,ARG: FOX SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061297
+#EXTINF:-1,ARG: FOX SPORT 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061298
+#EXTINF:-1,ARG: ESPN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061324
+#EXTINF:-1,ARG: ESPN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061325
+#EXTINF:-1,ARG: ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061326
+#EXTINF:-1,ARG: ESPN+
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061327
+#EXTINF:-1,ARG: DIRECTV SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061394
+#EXTINF:-1,ARG: DIRECTV SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061395
+#EXTINF:-1,ARG: FOX SPORTS 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061396
+#EXTINF:-1,ARG: TYC SPORTS INTERNACIONAL BACK UP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061397
+#EXTINF:-1,ARG: FOX SPORTS PREMIUM BACK UP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061398
+#EXTINF:-1,ARG: FOX SPORTS 2 BACK UP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061399
+#EXTINF:-1,ARG: FOX SPORTS 1 BACK UP
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1061400
+#EXTINF:-1,Sport TV 1 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084307
+#EXTINF:-1,Sport TV 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084308
+#EXTINF:-1,Sport TV 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084309
+#EXTINF:-1,Sport TV 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084310
+#EXTINF:-1,Sport TV 5 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084311
+#EXTINF:-1,Sport TV 6 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084312
+#EXTINF:-1,Sport TV NBA
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084313
+#EXTINF:-1,Sporting TV
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084314
+#EXTINF:-1,209 Fox Sports 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084401
+#EXTINF:-1,210 Fox Sports 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084402
+#EXTINF:-1,211 Fox Sports 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084403
+#EXTINF:-1,212 ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084404
+#EXTINF:-1,214 ESPN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084405
+#EXTINF:-1,216 ESPN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084406
+#EXTINF:-1,218 ESPN 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084407
+#EXTINF:-1,233 TNT Sports HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084411
+#EXTINF:-1,234 TNT SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084412
+#EXTINF:-1,235 TNT SPORTS 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084413
+#EXTINF:-1,Eleven Sports 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084254
+#EXTINF:-1,Eleven Sports 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084255
+#EXTINF:-1,Eleven Sports 4
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084257
+#EXTINF:-1,Eleven Sports 5
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084258
+#EXTINF:-1,Eleven Sports 6
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1084259
+#EXTINF:-1,BAND SP FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/453195
+#EXTINF:-1,BAND SP HD 
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/453186
+#EXTINF:-1,BAND SPORTS FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5194
+#EXTINF:-1,BAND SPORTS HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5044
+#EXTINF:-1,BAND SPORTS SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5402
+#EXTINF:-1,ESPN 2 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5216
+#EXTINF:-1,ESPN 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5062
+#EXTINF:-1,ESPN 2 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5426
+#EXTINF:-1,ESPN 3 FHD 
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465905
+#EXTINF:-1,ESPN 3 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465906
+#EXTINF:-1,ESPN 4 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465908
+#EXTINF:-1,ESPN 4 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/465909
+#EXTINF:-1,ESPN EXTRA FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5214
+#EXTINF:-1,ESPN EXTRA HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5065
+#EXTINF:-1,ESPN FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5215
+#EXTINF:-1,ESPN HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5064
+#EXTINF:-1,ESPN SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5425
+#EXTINF:-1,FOX SPORTS 2 FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5224
+#EXTINF:-1,FOX SPORTS 2 HD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/5071
+#EXTINF:-1,FOX SPORTS 2 SD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/68533
+#EXTINF:-1,IN: SONY TEN 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044055
+#EXTINF:-1,IN: SONY TEN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044056
+#EXTINF:-1,IN: SONY TEN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044057
+#EXTINF:-1,LA: ESPN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044389
+#EXTINF:-1,LA: ESPN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044390
+#EXTINF:-1,LA: ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044391
+#EXTINF:-1,MEX: FOX SPORTS 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044434
+#EXTINF:-1,MEX: ESPN 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044491
+#EXTINF:-1,MEX: ESPN 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044492
+#EXTINF:-1,MEX: ESPN
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044493
+#EXTINF:-1,MEX: ESPN PLUS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044494
+#EXTINF:-1,MEX: FOX SPORTS PREMIUM
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044581
+#EXTINF:-1,MEX: FOX SPORTS 3
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044582
+#EXTINF:-1,MEX: FOX SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044583
+#EXTINF:-1,CO: CLARO SPORT
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044625
+#EXTINF:-1,CO: DIRECTV SPORTS 2
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044626
+#EXTINF:-1,CO: DIRECTV SPORTS
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044627
+#EXTINF:-1,CO: FOX SPORTS 1
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044628
+#EXTINF:-1,CO: DIRECTV SPORTS +
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1044629
+#EXTINF:-1,FR: CANAL+ Sport FHD
+http://rctv.tech:80/testepainelp2p/aqzFw8hBeN/1045855
